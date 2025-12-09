@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ICC_T20_World_Cup_Winners/static/css/main.20648b75.css",
+    "main.js": "/ICC_T20_World_Cup_Winners/static/js/main.23c78d41.js",
+    "static/js/453.6070d396.chunk.js": "/ICC_T20_World_Cup_Winners/static/js/453.6070d396.chunk.js",
+    "index.html": "/ICC_T20_World_Cup_Winners/index.html",
+    "main.20648b75.css.map": "/ICC_T20_World_Cup_Winners/static/css/main.20648b75.css.map",
+    "main.23c78d41.js.map": "/ICC_T20_World_Cup_Winners/static/js/main.23c78d41.js.map",
+    "453.6070d396.chunk.js.map": "/ICC_T20_World_Cup_Winners/static/js/453.6070d396.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20648b75.css",
+    "static/js/main.23c78d41.js"
+  ]
+}
