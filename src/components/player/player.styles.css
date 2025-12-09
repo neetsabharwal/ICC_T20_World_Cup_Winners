@@ -1,0 +1,27 @@
+img {
+  height: 220px;
+  width: 170px;
+  border: 2px solid #10044a;
+  border-radius: 5px;
+}
+
+.player-container {
+  border: 2px solid #10044a;
+  border-radius: 5px;
+  width: 250px;
+  height: auto;
+  margin: 10px;
+  padding: 10px 5px;
+  background-color: #10044a0e;
+}
+
+.player-container:hover {
+  transform: scale(1.05);
+}
+
+h2,
+h3,
+h4,
+p {
+  color: #10044a;
+}
